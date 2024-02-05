@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  width: 1600px;
+  height: 75px;
+  border: 1px solid #ea1515;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  background: rgb(34, 34, 34);
+}
+
+.logo {
+  width: 111px;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo .group2 {
+  width: 26px;
+  height: 26.79px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo .forma1 {
+  width: 44px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(232, 232, 232);
+}
+
+.bittom {
+  width: 159px;
+  height: 29px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+  gap: 33px;
+}
+
+.bittom .formaFase {
+  width: 41px;
+  height: 37px;
+}
+
+.bittom .forma21 {
+  width: 32px;
+  height: 24px;
+  color: rgb(232, 232, 232);
+}
+
+.group35 {
+  width: 41px;
+  height: 37px;
+  display: flex;
+}
+
+.group35 .forma22 {
+}
+
+.group35 .ellipse {
+  width: 19px;
+  height: 19px;
+  margin-top: -8px;
+  margin-left: -9.01px;
+  color: rgb(241, 109, 127);
+}
+
+.group35 .text {
+  width: 14px;
+  height: 19px;
+  font-family: lato;
+  font-size: 12px;
+  font-weight: 400;
+  margin-left: -12px;
+  margin-top: -6px;
+  display: flex;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+}
+
+.back {
+  width: 1600px;
+  height: 764px;
+  display: flex;
+  align-items: center;
+  gap: 63.42px;
+  background: rgb(241, 228, 230);
+}
+
+.back .layer {
+  width: 800.58px;
+  height: 764px;
+}
+
+.back .forma {
+  width: 377px;
+  display: flex;
+  gap: 16px;
+}
+
+.offer {
+  width: 1140px;
+  height: 470px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  display: flex;
+  border: 1px solid #000;
+}
+
+.women {
+  width: 360px;
+  height: 260px;
+}
+
+.wom {
+}
+
+.wom .group36 {
+}
+
+.women .inf-women {
+  width: 154px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  background: #ea1515;
+}
+
+.men {
+  width: 360px;
+  height: 260px;
+  background: #3fb5d8;
+}
+
+.kids {
+  width: 360px;
+  height: 260px;
+  background: #51d63a;
+}
+
+.accesories {
+  width: 1140px;
+  height: 180px;
+  background-color: aqua;
+}
